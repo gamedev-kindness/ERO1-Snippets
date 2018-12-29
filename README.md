@@ -13,3 +13,11 @@ For loading and hiding data in color information in Image objects.
 Automatic minimap generation based on world markers
 
 Shares code with my tutorial at: https://gist.github.com/EIREXE/0a895cc5838b6fa5640c4cc758913fa6
+
+# Character shader
+
+Character shader used by ERO-ONE, requires master to work
+
+# H-Mode
+
+Basic code for sex mode, unfinished
